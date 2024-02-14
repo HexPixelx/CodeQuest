@@ -1,0 +1,15 @@
+{
+    "greeting": "Hello, adventurer! Do you seek a quest?",
+    "options": {
+      "yes": "Great! I have a quest for you.",
+      "no": "Very well, perhaps another time."
+    },
+    "quests": {
+      "quest1": {
+        "description": "Retrieve the lost sword from the Ancient Cave.",
+        "accept": "I knew you had the spirit of a true warrior!",
+        "decline": "It's a dangerous path indeed. Come back if you change your mind."
+      }
+    }
+  }
+  

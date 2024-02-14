@@ -1,0 +1,13 @@
+{
+    "initial_greeting": "Hello there, traveler. Could you lend me your aid?",
+    "quest": {
+        "offer": "A precious heirloom has been lost in the nearby forest. Would you be willing to find it for me?",
+        "options": {
+            "accept": "I'd be glad to help.",
+            "decline": "Perhaps another time."
+        }
+    },
+    "quest_accepted": "Thank you! The necklace should be somewhere deep in the woods. Please be careful.",
+    "quest_complete": "You found it! You have my deepest gratitude.", 
+    "no_quest": "Perhaps another time, adventurer." 
+}
