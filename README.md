@@ -1,3 +1,5 @@
+![RPG Logo](images/title.png)
+
 # rpg_adventure
 
 Welcome to rpg_adventure, an interactive text-based adventure game where you embark on epic quests, encounter fascinating characters, and explore magical realms.
