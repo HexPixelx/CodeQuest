@@ -38,6 +38,7 @@ To play rpg_adventure, follow these steps:
 
 ```bash
 python main.py
+```
 
 1. Follow the on-screen instructions to begin your adventure!
 
